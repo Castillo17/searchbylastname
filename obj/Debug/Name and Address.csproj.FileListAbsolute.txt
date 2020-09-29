@@ -1,0 +1,27 @@
+C:\Users\jcast\source\repos\Name and Address\bin\Debug\Name and Address.exe.config
+C:\Users\jcast\source\repos\Name and Address\bin\Debug\Name and Address.exe
+C:\Users\jcast\source\repos\Name and Address\bin\Debug\Name and Address.pdb
+C:\Users\jcast\source\repos\Name and Address\obj\Debug\Name_and_Address.Main.resources
+C:\Users\jcast\source\repos\Name and Address\obj\Debug\Name_and_Address.Properties.Resources.resources
+C:\Users\jcast\source\repos\Name and Address\obj\Debug\Name and Address.csproj.GenerateResource.cache
+C:\Users\jcast\source\repos\Name and Address\obj\Debug\Name and Address.exe
+C:\Users\jcast\source\repos\Name and Address\obj\Debug\Name and Address.pdb
+E:\CIT 138\Project4\Name and Address\bin\Debug\Name and Address.exe.config
+E:\CIT 138\Project4\Name and Address\bin\Debug\Name and Address.exe
+E:\CIT 138\Project4\Name and Address\bin\Debug\Name and Address.pdb
+E:\CIT 138\Project4\Name and Address\obj\Debug\Name and Address.csprojAssemblyReference.cache
+E:\CIT 138\Project4\Name and Address\obj\Debug\Name_and_Address.Main.resources
+E:\CIT 138\Project4\Name and Address\obj\Debug\Name_and_Address.Properties.Resources.resources
+E:\CIT 138\Project4\Name and Address\obj\Debug\Name and Address.csproj.GenerateResource.cache
+E:\CIT 138\Project4\Name and Address\obj\Debug\Name and Address.csproj.CoreCompileInputs.cache
+E:\CIT 138\Project4\Name and Address\obj\Debug\Name and Address.exe
+E:\CIT 138\Project4\Name and Address\obj\Debug\Name and Address.pdb
+D:\CIT 138\Project4\Name and Address\bin\Debug\Name and Address.exe.config
+D:\CIT 138\Project4\Name and Address\bin\Debug\Name and Address.exe
+D:\CIT 138\Project4\Name and Address\bin\Debug\Name and Address.pdb
+D:\CIT 138\Project4\Name and Address\obj\Debug\Name_and_Address.Main.resources
+D:\CIT 138\Project4\Name and Address\obj\Debug\Name_and_Address.Properties.Resources.resources
+D:\CIT 138\Project4\Name and Address\obj\Debug\Name and Address.csproj.GenerateResource.cache
+D:\CIT 138\Project4\Name and Address\obj\Debug\Name and Address.exe
+D:\CIT 138\Project4\Name and Address\obj\Debug\Name and Address.pdb
+D:\CIT 138\Project4\Name and Address\obj\Debug\Name and Address.csprojAssemblyReference.cache
